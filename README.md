@@ -1,0 +1,1 @@
+Developed a Custom EfficientNet-B0 model leveraging pre-trained EfficientNet-B0 weights and residual connections to achieve an impressive 80.85% accuracy in detecting deepfake audio, significantly outperforming traditional methods.
